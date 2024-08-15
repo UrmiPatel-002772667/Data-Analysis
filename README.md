@@ -393,11 +393,11 @@ Text Analytics, also known as Text Mining or Text Data Mining, involves extracti
 4. Drag fields to the Rows, Columns, Values, and Filters areas to create your report.
 
 ## Advanced Analysis Techniques
-1. **Regression Analysis**
+### Regression Analysis
    
   Regression analysis in Excel helps understand the relationship between dependent and independent variables. This technique can be used to predict trends, forecast future values, and determine the strength of relationships between variables.
 
-3. **What-If Analysis**
+### What-If Analysis
    
   What-if analysis is a powerful tool in Excel that allows you to explore different scenarios and their potential outcomes based on various inputs. This is particularly useful in data analysis for:
 
@@ -419,7 +419,7 @@ Text Analytics, also known as Text Mining or Text Data Mining, involves extracti
    
   Goal Seek works by calculating the required input value to achieve a specific goal. For instance, if you need to reach a particular profit margin, Goal Seek will determine the sales figure needed to achieve that goal.
 
-3. **Data Validation**
+### Data Validation
    
   Data validation ensures the accuracy and quality of your data by restricting the type of data that can be entered into a cell. 
 

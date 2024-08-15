@@ -382,8 +382,7 @@ Text Analytics, also known as Text Mining or Text Data Mining, involves extracti
   Returns the statistics for a line by using the least squares method to calculate a straight line that best fits your data.  
   `=LINEST(known_y's, [known_x's], [const], [stats])`
 
-
-**PIVOT TABLE**
+### PIVOT TABLE
   
   A powerful tool to summarize, analyze, explore, and present data. Pivot tables allow you to reorganize and summarize selected columns and rows of data to obtain a desired report.
 *To create a Pivot Table:*

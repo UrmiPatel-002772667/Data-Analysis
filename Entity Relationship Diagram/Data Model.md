@@ -85,6 +85,7 @@ The relational model is the most widely used data model in database management s
 
 ![image](https://github.com/user-attachments/assets/e494e1d2-e245-4162-9fc8-1d0eddfa18f2)
 
+
 ## Difference Between Conceptual and Logical Data Models
 
 Understanding the difference between conceptual and logical data models is essential for effective database design.

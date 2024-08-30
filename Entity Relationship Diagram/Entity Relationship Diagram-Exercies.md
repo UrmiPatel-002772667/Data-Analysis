@@ -3,6 +3,7 @@
 An EMPLOYEE works only for one DEPARTMENT. The company has many departments. Each DEPARTMENT must have at least one employee. Each employee must report to one supervisor. A supervisor is required to have at least one subordinate.
 	
 ![image](https://github.com/user-attachments/assets/9f5e40a0-5654-4f81-a819-85c2a61803f6)
+
 **Exercise 2:**
   Each semester, each student must be assigned an adviser who counsels students about degree requirements and helps students register for classes. Each student must register for classes with the help of an adviser, but if the student’s assigned adviser is not available, the student may register with any adviser.
 We must keep track of students, the assigned adviser for each, and the name of the adviser with whom the student registered for the current term.

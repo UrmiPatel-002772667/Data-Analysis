@@ -96,5 +96,3 @@ Understanding the difference between conceptual and logical data models is essen
 2. **Logical Data Modeling:**
    - Involves creating stable database structures that accurately express organizational requirements in technical terms. The logical model defines how data will be organized within the database system.
    - Results in a logical schema that is independent of the physical storage methods but tailored to the type of database technology being used.
-     
-![image](https://github.com/user-attachments/assets/ec35348a-5997-45df-a471-16f95cda34ed)

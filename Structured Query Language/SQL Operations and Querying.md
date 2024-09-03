@@ -87,13 +87,14 @@ ORDER BY column2 DESC;
 ### Aggregate Functions:
 - Aggregate functions perform calculations on a set of values and return a single value.
 
-**COUNT**: Returns the number of rows that match a specified condition.
-**SUM**: Returns the total sum of a numeric column.
-**AVG**: Returns the average value of a numeric column.
-**MIN**: Returns the smallest value in a set.
-**MAX**: Returns the largest value in a set.
-
-**Example:**
+- **COUNT**: Returns the number of rows that match a specified condition.
+- **SUM**: Returns the total sum of a numeric column.
+- **AVG**: Returns the average value of a numeric column.
+- **MIN**: Returns the smallest value in a set.
+- **MAX**: Returns the largest value in a set.
+- **ROUND**: Removes decimals
+  
+- **Example:**
 ```sql
 SELECT COUNT(*), SUM(column_name), AVG(column_name), MIN(column_name), MAX(column_name)
 FROM table_name;

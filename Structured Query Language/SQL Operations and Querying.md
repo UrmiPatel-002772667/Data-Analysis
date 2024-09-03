@@ -40,28 +40,38 @@ DROP TABLE table_name;
 ## SQL Statements
 **1. ALTER Statement**
 - Modifies the structure of an existing table by adding, dropping, or altering columns.
+
 **2. INSERT Statement**
 - Adds new rows to a table.
+
 **3. DROP Statement**
 - Removes database objects, such as tables or indexes, from the database.
+
 **4. DELETE Statement**
 - Deletes rows from a table based on a specified condition.
+
 **5. TRUNCATE Statement**
 - Removes all rows from a table but preserves the table structure for future use.
+
 **6. UPDATE Statement**
 - Modifies existing data in a table.
+
 **7. SELECT Statement**
 - Retrieves data from one or more tables based on specified criteria.
 
 ## SQL Query Clauses
 **1. SELECT**
 - Specifies the columns to retrieve from a table or view.
+
 **2. FROM**
 - Specifies the table or tables from which to retrieve data.
+
 **3. WHERE**
-Filters rows based on a specified condition.
+- Filters rows based on a specified condition.
+
 **4. GROUP BY**
 - Groups rows that have the same values in specified columns into aggregated data.
+
 **5. ORDER BY**
 - Sorts the result set based on one or more columns.
 

@@ -28,7 +28,8 @@ insert into EmployeeSalary values (421, 'P1', 12000, 0);
 
 select * from EmployeeSalary
 -- 
-	
+
+
 -- 1. SQL Query to fetch records that are present in one table but not in another table.
 select * from EmployeeSalary
 minus

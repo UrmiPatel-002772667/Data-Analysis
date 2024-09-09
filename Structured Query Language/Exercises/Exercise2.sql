@@ -1,3 +1,4 @@
+--
 CREATE TABLE EmployeeDetails (
 	EmpId integer,
 	FullName varchar(50),
@@ -11,7 +12,9 @@ insert into EmployeeDetails values (321, 'Walter White', 986, '01/30/2020', 'Cal
 insert into EmployeeDetails values (421, 'Kuldeep Rana', 876, '11/27/2021', 'New Delhi');
 
 select * from EmployeeDetails
-
+--
+	
+-- 
 CREATE TABLE EmployeeSalary (
 	EmpId integer,
 	Project varchar(2),
@@ -24,7 +27,8 @@ insert into EmployeeSalary values (321, 'P2', 10000, 1000);
 insert into EmployeeSalary values (421, 'P1', 12000, 0);
 
 select * from EmployeeSalary
-
+-- 
+	
 -- 1. SQL Query to fetch records that are present in one table but not in another table.
 select * from EmployeeSalary
 minus

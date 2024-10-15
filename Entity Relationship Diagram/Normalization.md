@@ -103,7 +103,7 @@ A relation is in Second Normal Form (2NF) if it meets the following criteria:
 The functional dependency diagram illustrates the relationships between attributes in the INVOICE table, highlighting both full and partial dependencies. Understanding these dependencies is critical for normalizing the database to reduce redundancy and improve data integrity.
 
 ### Full Dependency
-- Attributes like `OrderDate`, `CustomerID`, `CustomerName`, and `CustomerAddress` depend entirely on the `OrderID`, forming a full dependency.
+- Attributes like `OrderQuantity` depends entirely on the `OrderID` and `ProductID`, forming a full dependency.
 
 ### Transitive Dependencies
 - Transitive dependencies exist when an attribute depends on another non-primary key attribute rather than directly on the primary key. For example, `CustomerName` and `CustomerAddress` depend on `CustomerID`, which in turn depends on `OrderID`.

@@ -76,6 +76,16 @@ END
   - Employees earning **more than $160,000** are classified as "Executive."
     This categorization is achieved within the **SELECT** clause using a CASE statement to create a new column named **Category**.
 
+```sql
+SELECT EmployeeName, Salary,
+  CASE 
+    WHEN Salary < 100000 THEN 'Underpaid'
+    WHEN Salary BETWEEN 100000 AND 160000 THEN 'Paid Well'
+    WHEN Salary > 160000 THEN 'Executive'
+  END AS Category
+FROM Employees;
+```
+
 ## Transposing with CASE and SUM:
 
 1. **CASE Statement**: This is used to filter or categorize rows based on specific conditions, creating dynamic columns for each category.

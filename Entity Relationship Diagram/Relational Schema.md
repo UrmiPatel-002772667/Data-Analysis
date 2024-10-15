@@ -83,7 +83,7 @@
 
 ![image](https://github.com/user-attachments/assets/62b92178-7b5d-4482-9a6e-c02e0bd34a49)
 
-# Data Modeling Concepts and Normalization
+# Data Modeling Concepts
 
 ## Referential Integrity Mechanisms
 

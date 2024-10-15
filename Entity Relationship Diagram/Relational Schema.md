@@ -26,6 +26,20 @@
 
 - The primary key is a combination of the partial identifier of the weak entity and the primary key of the strong entity it depends on.
 
+## Mapping Unary Relationships
+
+### 1. One-to-Many Unary Relationships
+   - A recursive foreign key is used within the same relation to represent the relationship.
+
+![image](https://github.com/user-attachments/assets/be691fe0-8797-415a-be07-4968db99323f)
+
+### 2. Many-to-Many Unary Relationships
+   - Two relations are created:
+     1. One for the entity type itself.
+     2. One for the associative relation, where the primary key is composed of two attributes taken from the primary key of the entity.
+
+![image](https://github.com/user-attachments/assets/2087dae7-c14a-43ff-8a56-de41059b770f)
+
 ## Mapping Binary Relationships
 
 ### 1. One-to-Many Relationships
@@ -50,20 +64,6 @@
 
 ### 2. Identifier Assigned
    - When an identifier is assigned, it should be natural and familiar to end-users. However, a default identifier might not be unique, requiring additional constraints or modifications to ensure uniqueness.
-
-## Mapping Unary Relationships
-
-### 1. One-to-Many Unary Relationships
-   - A recursive foreign key is used within the same relation to represent the relationship.
-
-![image](https://github.com/user-attachments/assets/be691fe0-8797-415a-be07-4968db99323f)
-
-### 2. Many-to-Many Unary Relationships
-   - Two relations are created:
-     1. One for the entity type itself.
-     2. One for the associative relation, where the primary key is composed of two attributes taken from the primary key of the entity.
-
-![image](https://github.com/user-attachments/assets/2087dae7-c14a-43ff-8a56-de41059b770f)
 
 ## Mapping Ternary (and n-ary) Relationships
 

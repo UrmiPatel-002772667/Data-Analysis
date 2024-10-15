@@ -121,6 +121,10 @@
 - **HLOOKUP**  
   Searches for a value in the top row of a table and returns a value in the same column from a specified row.  
   `=HLOOKUP(lookup_value, table_array, row_index_num, [range_lookup])`
+
+- **XLOOKUP**  
+  XLOOKUP is a more flexible and improved version of the VLOOKUP formula.  
+  `=XLOOKUP(lookup_value, lookup_array, return_array, [if_not_found],[match_mode],[search_mode]`
   
 - **INDEX**  
   Returns the value of an element in a table or array, selected by the row and column number indexes.  
@@ -207,3 +211,8 @@
 - **LINEST**  
   Returns the statistics for a line by using the least squares method to calculate a straight line that best fits your data.  
   `=LINEST(known_y's, [known_x's], [const], [stats])`
+
+## Difference between VLOOKUP and XLOOKUP
+1. XLOOKUP can look for values within columns to the left and right of the lookup_array, while VLOOKUP is limited to values on the right side of the first column in the selected table_array.
+2. The XLOOKUP has an optional “if_not_found” feature which lets you customize your output text if a value is not found, while the VLOOKUP defaults to showing an #N/A (error sign).
+3. The VLOOKUP doesn’t allow you to specify what type of search you want, while the XLOOKUP allows you to specify whether you want to start from the first or last item on a list, or in ascending or descending order.

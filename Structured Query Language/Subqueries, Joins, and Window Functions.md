@@ -42,10 +42,22 @@ Subqueries are queries nested within another SQL query, allowing you to perform 
 ## ANY and ALL Operators
 
 ### ANY:
-  Returns `TRUE` if **at least one** value from the subquery meets the specified condition. It's used when you need to check if a value satisfies **one or more conditions** in a list.
+  Returns `TRUE` if **at least one** value from the subquery meets the specified condition. It's used when you need to check if a value satisfies **one or more conditions** in a list.  
+  - **Example:**
+    ```sql
+    SELECT EmployeeName, Salary
+    FROM Employees
+    WHERE Salary > ANY (SELECT Salary FROM Employees WHERE DepartmentID = 2);
+    ```
   
 ### ALL: 
   Returns `TRUE` if **every value** from the subquery meets the specified condition. This is used when you want to ensure that a value satisfies **all conditions** in a list.
+  - **Example:**
+    ```sql
+    SELECT EmployeeName, Salary
+    FROM Employees
+    WHERE Salary > ALL (SELECT Salary FROM Employees WHERE DepartmentID = 2);
+    ```
 
 ## Conditional Expressions with CASE:
   The **CASE** statement allows you to implement conditional logic directly within SQL queries, similar to an `if-else` structure in programming languages.

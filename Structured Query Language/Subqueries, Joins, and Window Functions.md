@@ -70,11 +70,6 @@ CASE
     ELSE result
 END
 ```
-- **Example**: Categorizing Employee Salaries
-  - Employees earning **less than $100,000** are categorized as "Underpaid."
-  - Employees earning **between $100,000 and $160,000** are labeled "Paid Well."
-  - Employees earning **more than $160,000** are classified as "Executive."
-    This categorization is achieved within the **SELECT** clause using a CASE statement to create a new column named **Category**.
 
 ```sql
 SELECT EmployeeName, Salary,

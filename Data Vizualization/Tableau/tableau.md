@@ -130,21 +130,6 @@ Often data sources have related dimensions that have an inherent hierarchy. For 
     4. To a summary insight like a trendline, click on the Analytics pane and drag the trend line into your visualization  
     5. You can change the type of visualization for your data by clicking on the Show Me button on the top right  
 
-## Data Visualization Types in Tableau  
-Tableau provides a wide range of data visualizations. Here is a list of the most useful visualizations you have in Tableau:  
-- **Bar Charts**: Horizontal bars used for comparing specific values across categories (e.g. sales by region)  
-- **Stacked Bar Charts**: Used to show categorical data within a bar chart (e.g., sales by region and department)  
-- **Side by side chart**: Used to compare values across categories in a bar chart format (e.g., sales by region comparing product types)  
-- **Line Chart**: Used for looking at a numeric value over time (e.g., revenue over time)  
-- **Scatter Plot**: Used to identify patterns between two continuous variables (e.g., profit vs. sales volume)  
-- **Histogram**: Used to show a distribution of data (e.g., Distribution of monthly revenue)  
-- **Box-and-Whisper Plot**: Used to compare distributions between categorical variables (e.g., distribution of revenue by region)  
-- **Heat map**: Used to visualize data in rows and columns as colors (e.g., revenue by marketing channel)  
-- **Highlight table**: Used to show data values with conditional color formatting (e.g., site traffic by marketing channel and year)  
-- **Symbol Map**: Used to show geographical data (e.g., Market size opportunity by state)  
-- **Treemap**: Used to show hierarchical data (e.g., Show how much revenue subdivisions generate relative to the whole department within an organization)  
-- **Dual Combination**: Used to show two visualizations within the same visualization (e.g., profit for a store each month as a bar chart with inventory over time as a line chart)  
-
 ## How to Customize Visualizations in Tableau  
 Tableau provides a deep ability to filter, format, aggregate, customize, and highlight specific parts of your data visualizations
 - **Filtering data with highlights**  

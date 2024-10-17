@@ -56,24 +56,37 @@ These data visualizations allow you to show sub-categories within a large catego
 
 ## Visualize a Single Value
 These data visualizations allow you to visualize a single data point
-1. **Card**: Cards are great for showing and tracking KPIs in dashboards or presentations
+1. **Card**: Cards are great for showing and tracking KPIs in dashboards or presentations  
 ![image](https://github.com/user-attachments/assets/8b6dd20d-6fbd-45b1-9361-37a604d46eb2)
 
-2. **Table chart**: Best to be used on small datasets, it displays tabular data in a table
+2. **Table chart**: Best to be used on small datasets, it displays tabular data in a table  
 ![image](https://github.com/user-attachments/assets/44c19fd8-50fa-4fa0-8aa8-9f47f6b3a9e3)
 
-3. **Gauge chart**: This chart is often used in executive dashboard reports to show relevant KPIs
+3. **Gauge chart**: This chart is often used in executive dashboard reports to show relevant KPIs  
 ![image](https://github.com/user-attachments/assets/3da0adaf-591d-4234-8134-acb183c21c0a)
 
 ## Capture Distributions
 These data visualizations allow you to visualize the distribution of a variable
-1. **Histograms**: Shows the distribution of a variable. It converts numerical data into bins as columns. The x-axis shows the range, and the y-axis represents the frequency
-2. **Box plot**: Shows the distribution of a variable using 5 key summary statistics—minimum, first quartile, median, third quartile, and maximum
-3. **Violin plot**: A variation of the box plot. It also shows the full distribution of the data alongside summary statistics
-4. **Density plot**: Visualizes a distribution by using smoothing to allow smoother distributions and better capture the distribution shape of the data
+1. **Histograms**: Shows the distribution of a variable. It converts numerical data into bins as columns. The x-axis shows the range, and the y-axis represents the frequency  
+![image](https://github.com/user-attachments/assets/c9d85a93-7844-4bfe-bd62-71537ed9a7ad)
+
+2. **Box plot**: Shows the distribution of a variable using 5 key summary statistics—minimum, first quartile, median, third quartile, and maximum  
+![image](https://github.com/user-attachments/assets/edf0548b-a592-4606-8b44-b4a9f5a4f8a3)
+
+3. **Violin plot**: A variation of the box plot. It also shows the full distribution of the data alongside summary statistics  
+![image](https://github.com/user-attachments/assets/3a268d85-45d3-4342-8b02-d4f453a9d58a)
+
+4. **Density plot**: Visualizes a distribution by using smoothing to allow smoother distributions and better capture the distribution shape of the data  
+![image](https://github.com/user-attachments/assets/a9ddaa44-263c-41b9-8cda-82e7d311af6b)
 
 ## Visualize a flow
 These data visualizations allow you to visualize how data points flow into eachother
-1. **Sankey chart**: Useful for representing flows in systems. This flow can be any measurable quantity
-2. **Chord chart**: Useful for presenting weighted relationships or flows between nodes. Especially useful for highlighting the dominant or important flows
-3. **Network chart**: Similar to a graph, it consists of nodes and interconnected edges. It illustrates how different items have relationships with each other
+1. **Sankey chart**: Useful for representing flows in systems. This flow can be any measurable quantity  
+![image](https://github.com/user-attachments/assets/3a91e2c7-1e53-45ac-b4c2-1cb6c06766d5)
+
+2. **Chord chart**: Useful for presenting weighted relationships or flows between nodes. Especially useful for highlighting the dominant or important flows  
+![image](https://github.com/user-attachments/assets/68ee8dcf-8fae-4e7b-8ab7-849131f4d66f)
+
+3. **Network chart**: Similar to a graph, it consists of nodes and interconnected edges. It illustrates how different items have relationships with each other  
+![image](https://github.com/user-attachments/assets/126ddb91-7929-4383-8c75-f8a35be320d2)
+

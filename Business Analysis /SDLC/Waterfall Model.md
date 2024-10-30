@@ -3,7 +3,7 @@ The Waterfall model is one of the earliest and most traditional software develop
 - Each phase in this model depends on the completion of the previous phase, and no phase can overlap.  
 - The structure of the Waterfall model is very rigid, and it is best suited for projects where the requirements are clear, fixed, and well understood at the beginning of the development cycle. 
 
-![image](https://github.com/user-attachments/assets/69f48069-d413-4c7e-9343-e4970ddbce6b)
+![image](https://github.com/user-attachments/assets/9d1545c0-d4b0-4a5e-93e2-bcf749fc3e6f)
 
 ## Key Phases of the Waterfall Model
 1. **Requirements Gathering and Analysis**

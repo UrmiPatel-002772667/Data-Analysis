@@ -59,7 +59,7 @@ The Waterfall model is one of the earliest and most traditional software develop
 2. **Clear Requirements:** Projects where requirements are stable and unlikely to change during development.
 3. **Low Risk of Change:** Projects in regulated industries (e.g., government or finance) where strict controls and predictability are required.
 
-### Comparison with Agile
+## Comparison with Agile
 - **Waterfall** is sequential, while **Agile** is iterative.
 - **Waterfall** requires complete requirements upfront, whereas **Agile** is adaptable and encourages continuous feedback.
 - **Waterfall** is rigid, while **Agile** is flexible to evolving needs.

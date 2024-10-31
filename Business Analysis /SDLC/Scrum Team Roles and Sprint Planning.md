@@ -144,3 +144,30 @@ In a Scrum Team, **Developers** and **QA Testers** collaborate closely to delive
    - The Sprint Review may cover broader strategic topics such as product timeline, budget, potential new capabilities, and market positioning. These discussions help ensure that the team is on track to deliver a product that meets both market needs and organizational goals.
   
 ### Sprint Retrospective 
+
+A **Sprint Retrospective** is a crucial event in Scrum, designed to reflect on the past Sprint and identify areas for improvement. It's a time for the Scrum Team to learn from their experiences, celebrate successes, and address challenges.
+
+**Key Objectives of a Sprint Retrospective:**
+
+1. **Inspect the Sprint:**
+   * Review goals, achievements, and any obstacles encountered.
+   * Discuss what went well and what didn't.
+2. **Identify Improvement Areas:**
+   * Discuss specific areas where the team can improve their processes, tools, or collaboration.
+3. **Create Action Items:**
+   * Define specific, actionable steps with ownership and deadlines.
+
+**Common Retrospective Techniques:**
+
+* **Start, Stop, Continue:** Participants share things they should start doing, stop doing, and continue doing.
+* **Sailboat:** The team identifies factors that are propelling the team forward (wind) and factors that are holding the team back (anchors).
+* **Mad, Sad, Glad:** Participants share things that made them mad, sad, or glad during the Sprint.
+* **Five Whys:** The team asks "why" five times to uncover the root cause of a problem.
+
+**Tips for Effective Sprint Retrospectives:**
+
+* **Create a safe and open environment:** Encourage honest and constructive feedback.
+* **Focus on improvement:** Avoid blame and focus on solutions.
+* **Keep it focused:** Stick to the agenda and avoid getting sidetracked.
+* **Take action:** Make sure to follow up on action items and track progress.
+* **Celebrate successes:** Acknowledge and reward the team's achievements.

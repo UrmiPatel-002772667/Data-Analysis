@@ -66,4 +66,8 @@ Prioritizes technical excellence and continuous improvement through practices li
 ## 6. Lean Development
 Focuses on eliminating waste, improving processes, and ensuring that every aspect of the project adds value to the customer.
 
-![image](https://github.com/user-attachments/assets/5e5b22be-d17a-4ce3-a0d2-d94f41782f15)
+![image](https://github.com/user-attachments/assets/d4108c96-e3f7-4a67-bf34-096c1a63bb60)
+
+   - **Core Principles**: Eliminate Waste, Build Quality In, Create Knowledge, Defer Commitment, Deliver Fast, Respect People, and Optimize the Whole
+   - **Development Practices**: Value Stream Mapping, Just-in-Time Development, Continuous Integration and Deployment (CI/CD), Root Cause Analysis, and Cross-Functional Teams
+   - **Types of Waste**: Overproduction, Waiting, Transportation, Overprocessing, Inventory, Motion, and Defects

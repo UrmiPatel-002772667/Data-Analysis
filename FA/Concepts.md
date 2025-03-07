@@ -61,7 +61,7 @@ Solvency ratios focus on a company's long-term financial health and its ability 
 - The debt ratio shows the proportion of a company's assets that are financed by debt. A higher ratio implies a higher degree of financial risk.
 - $Debt\ Ratio = \frac{\text{Total Debt}}{\text{Total Assets}}$
 
-## Efficiency and Activity Ratios:
+## Efficiency and Activity Ratios
 
 Efficiency and activity ratios evaluate how well a company utilizes its assets to generate sales and manage its resources. These ratios are crucial for understanding operational effectiveness. The three key ratios in this category are **Inventory Turnover**, **Receivables Turnover**, and **Asset Turnover**. Let's break each one down:
 
@@ -101,3 +101,47 @@ $\text{Operating Cycle} = \text{DSI} + \text{DSO}$
 **Management Implications**:
 - Efficient management of the operating cycle and cash conversion cycle can improve liquidity and reduce the need for external financing.
 - Companies can optimize working capital by negotiating favorable payment terms with suppliers, efficiently managing inventory levels, and improving accounts receivable collection processes.
+
+## Market and Valuation Ratios
+
+Market and valuation ratios are critical for investors and analysts to assess a company’s performance and its stock market valuation. Below is a breakdown of key ratios with examples and live calculations.
+
+1. **Price-to-Earnings (P/E) Ratio**
+- **P/E Ratio** indicates the valuation relative to earnings.
+- $\text{P/E Ratio} = \frac{\text{Market Price per Share}}{\text{Earnings per Share (EPS)}}$
+- **Example**:  
+  - Suppose **Company ABC** has a market price per share of $50 and an EPS of $5.  
+  - $\text{P/E Ratio} = \frac{50}{5} = 10$
+  - **Interpretation**: A P/E ratio of 10 means investors are willing to pay $10 for every $1 of earnings the company generates. A high P/E ratio may suggest high growth expectations, while a low ratio could indicate undervaluation or low growth prospects.
+
+2. **Dividend Yield**
+- **Dividend Yield** measures income from dividends.
+- $\text{Dividend Yield} = \left( \frac{\text{Dividends per Share}}{\text{Market Price per Share}} \right) \times 100$
+- **Example**:  
+  - Suppose **Company XYZ** pays an annual dividend of $2 per share, and the market price per share is $40.  
+  - $\text{Dividend Yield} = \left( \frac{2}{40} \right) \times 100 = 5\%$
+  - **Interpretation**: A dividend yield of 5% means investors earn 5% of their investment in the form of dividends annually. Higher dividend yields can attract income-focused investors.
+
+3. **Earnings Per Share (EPS)**
+- **EPS** reflects the company's profitability per share.
+- $\text{EPS} = \frac{\text{Net Income}}{\text{Number of Outstanding Shares}}$
+- **Example**:  
+  - Suppose **Company LMN** has a net income of $5 million and 1 million outstanding shares.  
+  - $\text{EPS} = \frac{5,000,000}{1,000,000} = 5$
+  - **Interpretation**: EPS of 5 means that for every share outstanding, the company earned $5. A higher EPS indicates better profitability.
+
+4. **Price-to-Book (P/B) Ratio**
+- **P/B Ratio** compares market value with book value.
+- $\text{P/B Ratio} = \frac{\text{Market Price per Share}}{\text{Book Value per Share}}$
+- **Example**:  
+  - Suppose **Company PQR** has a market price per share of $60 and a book value per share of $40.  
+  - $\text{P/B Ratio} = \frac{60}{40} = 1.5$
+  - **Interpretation**: A P/B ratio of 1.5 means that the company’s market value is 1.5 times its book value. A ratio above 1 suggests that the market values the company more highly than its book value, often due to intangible assets or growth potential.
+
+5. **Return on Equity (ROE)**
+- **ROE** shows how well a company utilizes equity to generate profits.
+- $\text{ROE} = \frac{\text{Net Income}}{\text{Shareholders' Equity}} \times 100$
+- **Example**:  
+  - Suppose **Company XYZ** has a net income of $8 million and shareholders' equity of $50 million.  
+  - $\text{ROE} = \frac{8,000,000}{50,000,000} \times 100 = 16\%$
+  - **Interpretation**: An ROE of 16% means the company generates a return of 16% on shareholders' equity. A higher ROE suggests more efficient use of equity capital to generate profits.

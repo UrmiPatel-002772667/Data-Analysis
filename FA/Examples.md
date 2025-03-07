@@ -134,3 +134,67 @@ Consider a company with the following financial data:
 - **Inventory Turnover Ratio**: With a ratio of 5, this means the company sells and replaces its inventory five times within the period, showing efficient inventory management.
 - **Receivables Turnover Ratio**: The ratio of 5 indicates that the company collects its receivables five times during the period, reflecting effective management of receivables.
 - **Asset Turnover Ratio**: A ratio of 2 means the company generates $2 in sales for every $1 in assets, suggesting efficient use of its assets to generate revenue.
+
+## Market and Valuation Ratios
+
+Market and valuation ratios are critical for investors and analysts to assess a company’s performance and its stock market valuation. Below is a breakdown of key ratios with examples and live calculations.
+
+- **Price-to-Earnings (P/E) Ratio**
+  - Suppose **Company ABC** has a market price per share of $50 and an EPS of $5.  
+  - $\text{P/E Ratio} = \frac{\text{Market Price per Share}}{\text{Earnings per Share (EPS)}} = \frac{50}{5} = 10$
+  - **Interpretation**: A P/E ratio of 10 means investors are willing to pay $10 for every $1 of earnings the company generates. A high P/E ratio may suggest high growth expectations, while a low ratio could indicate undervaluation or low growth prospects.
+
+- **Dividend Yield**
+  - Suppose **Company XYZ** pays an annual dividend of $2 per share, and the market price per share is $40.  
+  - $\text{Dividend Yield} = \left( \frac{\text{Dividends per Share}}{\text{Market Price per Share}} \right) \times 100 = \left( \frac{2}{40} \right) \times 100 = 5\%$
+  - **Interpretation**: A dividend yield of 5% means investors earn 5% of their investment in the form of dividends annually. Higher dividend yields can attract income-focused investors.
+
+- **Earnings Per Share (EPS)**
+  - Suppose **Company LMN** has a net income of $5 million and 1 million outstanding shares.  
+  - $\text{EPS} = \frac{\text{Net Income}}{\text{Number of Outstanding Shares}} = \frac{5,000,000}{1,000,000} = 5$
+  - **Interpretation**: EPS of 5 means that for every share outstanding, the company earned $5. A higher EPS indicates better profitability.
+
+- **Price-to-Book (P/B) Ratio**
+  - Suppose **Company PQR** has a market price per share of $60 and a book value per share of $40.  
+  - $\text{P/B Ratio} = \frac{\text{Market Price per Share}}{\text{Book Value per Share}} = \frac{60}{40} = 1.5$
+  - **Interpretation**: A P/B ratio of 1.5 means that the company’s market value is 1.5 times its book value. A ratio above 1 suggests that the market values the company more highly than its book value, often due to intangible assets or growth potential.
+
+- **Return on Equity (ROE)**
+  - Suppose **Company XYZ** has a net income of $8 million and shareholders' equity of $50 million.  
+  - $\text{ROE} = \frac{\text{Net Income}}{\text{Shareholders' Equity}} \times 100 = \frac{8,000,000}{50,000,000} \times 100 = 16\%$
+  - **Interpretation**: An ROE of 16% means the company generates a return of 16% on shareholders' equity. A higher ROE suggests more efficient use of equity capital to generate profits.
+
+### Example 4:
+**Financial Data:** 
+Net Income: $150,000,000 
+Earnings Per Share (EPS): $5.00 
+Dividends Paid: $75,000,000 
+Market Price per Share: $75.00 
+Book Value per Share: $50.00 
+Total Shareholders' Equity: $2,500,000,000 
+Total Assets: $5,000,000,000 
+Total Liabilities: $2,500,000,000 
+Total Outstanding Shares: 30,000,000 
+Common Stock: $1,000,000,000 
+Preferred Stock: $500,000,000 
+
+**Calculations:**
+Here are the detailed calculations for each ratio:  
+
+- **Price-to-Earnings (P/E) Ratio**  
+  $P/E = \frac{75}{5} = 15.0$  
+
+- **Dividend Yield**  
+  - *Step 1: Calculate Dividends per Share*   
+    $\text{Dividends per Share} = \frac{\text{Dividends Paid}}{\text{Total Outstanding Shares}} = \frac{75,000,000}{30,000,000} = 2.50$
+  - *Step 2: Calculate Dividend Yield*    
+    $\text{Dividend Yield} = \left(\frac{2.50}{75}\right) \times 100 = 3.33\\%$
+
+- **Return on Equity (ROE)**  
+  $ROE = \left(\frac{150,000,000}{2,500,000,000}\right) \times 100 = 6.0\\%$  
+
+- **Price-to-Book (P/B) Ratio**  
+  $P/B = \frac{75}{50} = 1.5$
+
+- **Earnings Per Share (EPS)**  
+  $EPS = \frac{150,000,000}{30,000,000} = 5.00$

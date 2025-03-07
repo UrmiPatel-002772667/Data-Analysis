@@ -109,39 +109,137 @@ Market and valuation ratios are critical for investors and analysts to assess a 
 1. **Price-to-Earnings (P/E) Ratio**
 - **P/E Ratio** indicates the valuation relative to earnings.
 - $\text{P/E Ratio} = \frac{\text{Market Price per Share}}{\text{Earnings per Share (EPS)}}$
-- **Example**:  
-  - Suppose **Company ABC** has a market price per share of $50 and an EPS of $5.  
-  - $\text{P/E Ratio} = \frac{50}{5} = 10$
-  - **Interpretation**: A P/E ratio of 10 means investors are willing to pay $10 for every $1 of earnings the company generates. A high P/E ratio may suggest high growth expectations, while a low ratio could indicate undervaluation or low growth prospects.
 
 2. **Dividend Yield**
 - **Dividend Yield** measures income from dividends.
 - $\text{Dividend Yield} = \left( \frac{\text{Dividends per Share}}{\text{Market Price per Share}} \right) \times 100$
-- **Example**:  
-  - Suppose **Company XYZ** pays an annual dividend of $2 per share, and the market price per share is $40.  
-  - $\text{Dividend Yield} = \left( \frac{2}{40} \right) \times 100 = 5\%$
-  - **Interpretation**: A dividend yield of 5% means investors earn 5% of their investment in the form of dividends annually. Higher dividend yields can attract income-focused investors.
 
 3. **Earnings Per Share (EPS)**
 - **EPS** reflects the company's profitability per share.
 - $\text{EPS} = \frac{\text{Net Income}}{\text{Number of Outstanding Shares}}$
-- **Example**:  
-  - Suppose **Company LMN** has a net income of $5 million and 1 million outstanding shares.  
-  - $\text{EPS} = \frac{5,000,000}{1,000,000} = 5$
-  - **Interpretation**: EPS of 5 means that for every share outstanding, the company earned $5. A higher EPS indicates better profitability.
 
 4. **Price-to-Book (P/B) Ratio**
 - **P/B Ratio** compares market value with book value.
 - $\text{P/B Ratio} = \frac{\text{Market Price per Share}}{\text{Book Value per Share}}$
-- **Example**:  
-  - Suppose **Company PQR** has a market price per share of $60 and a book value per share of $40.  
-  - $\text{P/B Ratio} = \frac{60}{40} = 1.5$
-  - **Interpretation**: A P/B ratio of 1.5 means that the company’s market value is 1.5 times its book value. A ratio above 1 suggests that the market values the company more highly than its book value, often due to intangible assets or growth potential.
 
 5. **Return on Equity (ROE)**
 - **ROE** shows how well a company utilizes equity to generate profits.
 - $\text{ROE} = \frac{\text{Net Income}}{\text{Shareholders' Equity}} \times 100$
-- **Example**:  
-  - Suppose **Company XYZ** has a net income of $8 million and shareholders' equity of $50 million.  
-  - $\text{ROE} = \frac{8,000,000}{50,000,000} \times 100 = 16\%$
-  - **Interpretation**: An ROE of 16% means the company generates a return of 16% on shareholders' equity. A higher ROE suggests more efficient use of equity capital to generate profits.
+
+## **Trend Analysis**
+
+### **1. Definition and Purpose**
+- Trend Analysis involves studying financial data over multiple periods to identify patterns, tendencies, and evaluate performance trends.
+- The purpose is to detect areas of improvement, potential risks, and to make informed predictions about future financial directions.
+
+### **2. Steps in Trend Analysis**
+#### **Data Selection:**
+- Choose relevant financial items, such as revenue, expenses, or net income, for analysis.
+
+#### **Percentage Changes:**
+Calculate the percentage change for each selected item using the formula:
+\[
+\text{Percentage Change} = \left(\frac{\text{Current Year Value} - \text{Previous Year Value}}{\text{Previous Year Value}}\right) \times 100
+\]
+
+#### **Interpretation:**
+- Positive trends suggest areas of growth and efficiency.
+- Negative trends may indicate potential issues and areas for improvement.
+
+### **3. Example**
+Consider a company's revenue over three years:
+- 2019: $500,000
+- 2020: $600,000
+- 2021: $750,000
+
+Calculate the percentage change for each year to identify the growth trend:
+- 2020: \(\frac{600,000 - 500,000}{500,000} \times 100 = 20\%\)
+- 2021: \(\frac{750,000 - 600,000}{600,000} \times 100 = 25\%\)
+
+## **Common-Size Statements**
+
+### **1. Definition and Significance**
+- Common-Size Statements express each line item as a percentage of a base figure (usually total revenue or total assets).
+- This allows comparison between companies of different sizes and assessment of financial structure changes over time.
+
+### **2. Construction of Common-Size Statements**
+#### **Income Statement:**
+Express each line item as a percentage of total revenue:
+\[
+\%\text{ of Revenue} = \left(\frac{\text{Line Item Amount}}{\text{Total Revenue}}\right) \times 100
+\]
+
+#### **Balance Sheet:**
+Express each asset, liability, and equity item as a percentage of total assets:
+\[
+\%\text{ of Total Assets} = \left(\frac{\text{Item Amount}}{\text{Total Assets}}\right) \times 100
+\]
+
+### **3. Interpretation**
+#### **Identifying Key Drivers:**
+- Pinpoint elements contributing significantly to the total.
+- Understand the composition of expenses or assets relative to total revenue or assets.
+
+#### **Comparing Companies:**
+- Enables standardized comparisons, especially when dealing with companies of varying sizes.
+
+### **4. Example**
+Convert an Income Statement into a Common-Size format:
+
+| Category | Amount | % of Revenue |
+|----------|--------|--------------|
+| Revenue | $750,000 | 100.00% |
+| Cost of Goods Sold | $450,000 | 60.00% |
+| Operating Expenses | $150,000 | 20.00% |
+| Net Income | $150,000 | 20.00% |
+
+## **Integration of Tools and Practical Application**
+
+### **Combine Trends and Percentages:**
+- Use trend analysis alongside common-size statements for a holistic assessment.
+- Identify whether percentage changes align with overall trends.
+
+### **Real-world Application:**
+- Analyze a set of financial statements using both tools to derive meaningful insights.
+- Explore how trends and proportions complement each other in understanding a company's financial health.
+
+## **Trend Analysis in Excel**
+
+### **Data Selection:**
+Consider a company's revenue for three years:
+
+| Year | Revenue |
+|------|---------|
+| 2019 | $500,000 |
+| 2020 | $600,000 |
+| 2021 | $750,000 |
+
+### **Percentage Changes in Excel:**
+Use the formula:
+\[
+=(C2-B2)/B2 \times 100
+\]
+
+| Year | Revenue | % Change |
+|------|---------|----------|
+| 2019 | $500,000 | |
+| 2020 | $600,000 | =(C3-B3)/B3*100 |
+| 2021 | $750,000 | =(C4-B4)/B4*100 |
+
+**Interpretation:**
+- Positive values indicate growth, negative values indicate a decline.
+
+## **Common-Size Statements in Excel**
+### **Data Selection:**
+Use a sample Income Statement.
+
+| Category | Amount | % of Revenue |
+|----------|--------|--------------|
+| Revenue | $750,000 | =B2/B$2 |
+| Cost of Goods Sold | $450,000 | =B3/B$2 |
+| Operating Expenses | $150,000 | =B4/B$2 |
+| Net Income | $150,000 | =B5/B$2 |
+
+### **Interpretation:**
+- Analyze the common-size percentages to understand the proportional contribution of each category to total revenue.
+

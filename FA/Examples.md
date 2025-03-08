@@ -198,3 +198,15 @@ Here are the detailed calculations for each ratio:
 
 - **Earnings Per Share (EPS)**  
   $EPS = \frac{150,000,000}{30,000,000} = 5.00$
+
+## Trend Analysis
+
+### Example 5:
+Consider a company's revenue over three years:
+- 2019: $500,000
+- 2020: $600,000
+- 2021: $750,000
+
+Calculate the percentage change for each year to identify the growth trend:
+- 2020: $\frac{600,000 - 500,000}{500,000} \times 100 = 20\\%$
+- 2021: $\frac{750,000 - 600,000}{600,000} \times 100 = 25\\%$

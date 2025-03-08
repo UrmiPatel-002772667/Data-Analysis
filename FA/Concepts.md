@@ -128,25 +128,20 @@ Market and valuation ratios are critical for investors and analysts to assess a 
 
 ## **Trend Analysis**
 
-### **1. Definition and Purpose**
 - Trend Analysis involves studying financial data over multiple periods to identify patterns, tendencies, and evaluate performance trends.
 - The purpose is to detect areas of improvement, potential risks, and to make informed predictions about future financial directions.
 
-### **2. Steps in Trend Analysis**
-#### **Data Selection:**
-- Choose relevant financial items, such as revenue, expenses, or net income, for analysis.
+**Steps in Trend Analysis**
+- **Data Selection:**
+  - Choose relevant financial items, such as revenue, expenses, or net income, for analysis.
+- **Percentage Changes:**
+  - Calculate the percentage change for each selected item using the formula:
+  - $\text{Percentage Change} = \left(\frac{\text{Current Year Value} - \text{Previous Year Value}}{\text{Previous Year Value}}\right) \times 100$
+- **Interpretation:**
+  - Positive trends suggest areas of growth and efficiency.
+  - Negative trends may indicate potential issues and areas for improvement.
 
-#### **Percentage Changes:**
-Calculate the percentage change for each selected item using the formula:
-\[
-\text{Percentage Change} = \left(\frac{\text{Current Year Value} - \text{Previous Year Value}}{\text{Previous Year Value}}\right) \times 100
-\]
-
-#### **Interpretation:**
-- Positive trends suggest areas of growth and efficiency.
-- Negative trends may indicate potential issues and areas for improvement.
-
-### **3. Example**
+**Example**
 Consider a company's revenue over three years:
 - 2019: $500,000
 - 2020: $600,000

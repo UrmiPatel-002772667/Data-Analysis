@@ -148,8 +148,8 @@ Consider a company's revenue over three years:
 - 2021: $750,000
 
 Calculate the percentage change for each year to identify the growth trend:
-- 2020: \(\frac{600,000 - 500,000}{500,000} \times 100 = 20\%\)
-- 2021: \(\frac{750,000 - 600,000}{600,000} \times 100 = 25\%\)
+- 2020: $\(\frac{600,000 - 500,000}{500,000} \times 100 = 20\%\)$
+- 2021: $\(\frac{750,000 - 600,000}{600,000} \times 100 = 25\%\)$
 
 ## **Common-Size Statements**
 
@@ -160,16 +160,11 @@ Calculate the percentage change for each year to identify the growth trend:
 ### **2. Construction of Common-Size Statements**
 #### **Income Statement:**
 Express each line item as a percentage of total revenue:
-\[
-\%\text{ of Revenue} = \left(\frac{\text{Line Item Amount}}{\text{Total Revenue}}\right) \times 100
-\]
+$\%\text{ of Revenue} = \left(\frac{\text{Line Item Amount}}{\text{Total Revenue}}\right) \times 100$
 
 #### **Balance Sheet:**
 Express each asset, liability, and equity item as a percentage of total assets:
-\[
-\%\text{ of Total Assets} = \left(\frac{\text{Item Amount}}{\text{Total Assets}}\right) \times 100
-\]
-
+$\%\text{ of Total Assets} = \left(\frac{\text{Item Amount}}{\text{Total Assets}}\right) \times 100$
 ### **3. Interpretation**
 #### **Identifying Key Drivers:**
 - Pinpoint elements contributing significantly to the total.
@@ -211,9 +206,7 @@ Consider a company's revenue for three years:
 
 ### **Percentage Changes in Excel:**
 Use the formula:
-\[
-=(C2-B2)/B2 \times 100
-\]
+$=(C2-B2)/B2 \times 100$
 
 | Year | Revenue | % Change |
 |------|---------|----------|

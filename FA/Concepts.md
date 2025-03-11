@@ -419,3 +419,91 @@ Create a simple financial model for the business mentioned earlier. Key variable
 - **Scenario Creation:** Develop scenarios by varying the values of selected variables.
 - **Analysis:** Use the financial model to analyze the impact of each scenario on profitability.
 - **Decision-Making:** Discuss how sensitivity analysis results can guide decision-making, such as adjusting pricing strategies or production plans.
+ 
+
+**Overview of Capital Budgeting:**  
+Capital budgeting is a strategic financial process that involves evaluating and selecting long-term investment projects or expenditures. These projects typically involve substantial financial commitments and have a significant impact on a company's future cash flows. Capital budgeting helps businesses make informed decisions about which projects to undertake, considering factors such as risk, return, and the overall financial health of the organization.
+
+**Importance of Capital Budgeting:**  
+
+**Resource Allocation:**  
+- Helps allocate financial resources to projects with the highest potential for long-term value and profitability.  
+- Ensures optimal use of limited resources in a competitive business environment.  
+
+**Risk Management:**  
+- Assists in identifying and assessing risks associated with potential investments.  
+- Enables companies to make strategic decisions that align with risk tolerance and overall business objectives.  
+
+**Long-Term Planning:**  
+- Facilitates the development of a long-term strategic plan by identifying and prioritizing investment opportunities.  
+- Aligns capital expenditures with the organization's strategic goals and vision.  
+
+**Enhanced Decision-Making:**  
+- Provides a structured framework for evaluating and comparing different investment proposals.  
+- Enables decision-makers to make choices based on quantitative and qualitative criteria.  
+
+---
+
+### **Calculation and Interpretation of Net Present Value (NPV):**  
+**Net Present Value (NPV)** is a key capital budgeting technique that evaluates the profitability of an investment by comparing the present value of cash inflows with the present value of cash outflows over time.  
+
+\[NPV = \sum \frac{Cash Flow_t}{(1+r)^t} - Initial Investment\]
+
+**Interpretation:**  
+- If **NPV is positive**, the investment is expected to generate more cash inflows than outflows, indicating potential profitability.  
+- If **NPV is negative**, the investment may not meet the required rate of return and might not be economically viable.  
+
+---
+
+### **Calculation and Interpretation of Internal Rate of Return (IRR):**  
+**Internal Rate of Return (IRR)** is another crucial capital budgeting metric that represents the discount rate at which the present value of cash inflows equals the present value of cash outflows.  
+
+\[ \sum \frac{Cash Flow_t}{(1+IRR)^t} = Initial Investment \]
+
+**Interpretation:**  
+- If **IRR is greater than** the required rate of return (hurdle rate), the investment is considered acceptable.  
+- If **IRR is less than** the required rate of return, the project may not meet expectations.  
+
+---
+
+### **Teaching Approach:**  
+**Introduction:**  
+- Explain the significance of capital budgeting in the context of long-term financial decision-making.  
+- Emphasize the role of capital budgeting in strategic planning and resource allocation.  
+
+**Net Present Value (NPV):**  
+- Break down the NPV formula and explain the concept of discounting future cash flows.  
+- Provide examples of positive and negative NPV scenarios and discuss the implications.  
+
+**Internal Rate of Return (IRR):**  
+- Introduce the IRR formula and discuss the concept of the discount rate that equates cash inflows with outflows.  
+- Illustrate how to interpret IRR results and make decisions based on the comparison with the required rate of return.  
+
+**Case Studies:**  
+- Present real-world case studies or examples to demonstrate how companies use NPV and IRR in making investment decisions.  
+- Encourage students to calculate NPV and IRR for different scenarios and interpret the results.  
+
+**Practical Exercises:**  
+- Provide hands-on exercises where students can calculate NPV and IRR for given investment proposals.  
+- Discuss the implications of varying discount rates and cash flow patterns on NPV and IRR outcomes.  
+
+**Discussion and Analysis:**  
+- Engage students in discussions about the strengths and limitations of NPV and IRR.  
+- Encourage critical thinking about the assumptions underlying these techniques and potential challenges in their application.  
+
+By combining theoretical explanations with practical examples and interactive exercises, students can gain a comprehensive understanding of capital budgeting techniques, NPV, and IRR. This approach helps bridge the gap between theory and real-world applications in financial decision-making.
+
+---
+
+### **Introduction to Cost of Capital and Capital Structure:**  
+Understanding the concepts of **cost of capital** and **capital structure** is crucial for financial decision-making within a business. These concepts play a pivotal role in determining how a company finances its operations and investments.
+
+**Cost of Capital:**  
+- Represents the minimum return required by investors for providing capital to the company.  
+- Includes components such as the cost of debt, cost of equity, and weighted average cost of capital (WACC).  
+
+**Capital Structure:**  
+- Refers to the mix of debt and equity financing used by a company.  
+- A well-balanced capital structure minimizes the cost of capital while maximizing shareholder value.  
+
+By analyzing these concepts, businesses can make informed decisions about their financing strategies and investment plans.

@@ -259,3 +259,17 @@ Let's apply DuPont Analysis to XYZ Corp:
   - **TAT** = 1.2
   - **EM** = 1.5
   - $ROE = 15\% \times 1.2 \times 1.5 = 27\\%$
+
+### Example 9:
+Net Income: $100,000 - 20000 = 80000
+Total Assets: $500,000 - 50000 = 450000
+Total Equity: $350,000
+Total Revenue: $600,000
+Total Liabilities: $150,000 + 80000
+
+**Calculation:**
+NPM = 80000/600000 * 100 = 13.33
+TAT = 600000/450000 = 1.33
+EM = 500000/350000 = 1.42
+
+ROI = 13.33 * 1.33 * 1.42 = 25.175

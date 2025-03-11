@@ -210,3 +210,52 @@ Consider a company's revenue over three years:
 Calculate the percentage change for each year to identify the growth trend:
 - 2020: $\frac{600,000 - 500,000}{500,000} \times 100 = 20\\%$
 - 2021: $\frac{750,000 - 600,000}{600,000} \times 100 = 25\\%$
+
+## **Common-Size Statements in Excel**
+### Example 6:
+Use a sample Income Statement.
+
+| Category | Amount | % of Revenue |
+|----------|--------|--------------|
+| Revenue | $750,000 | 100% |
+| Cost of Goods Sold | $450,000 | 60% |
+| Operating Expenses | $150,000 | 20% |
+| Net Income | $150,000 | 20% |
+
+### **Interpretation:**
+- Analyze the common-size percentages to understand the proportional contribution of each category to total revenue.
+
+### Example 7:
+**Financial Data Table**
+| Year  | Revenue | COGS | Gross Profit | Operating Expenses | Net Income |
+|-------|---------|------|--------------|--------------------|------------|
+| 2020  | 250     | 150  | 100          | 50                 | 40         |
+| 2021  | 275     | 160  | 115          | 55                 | 45         |
+| 2022  | 300     | 170  | 130          | 60                 | 50         |
+| 2023  | 325     | 180  | 145          | 65                 | 55         |
+| 2024  | 350     | 190  | 160          | 70                 | 60         |
+
+**Trend Analysis Table**  
+| Year  | Revenue (%) | COGS (%) | Gross Profit (%) | Operating Expenses (%) | Net Income (%) |
+|-------|------------|----------|------------------|------------------------|---------------|
+| 2021  | 10.00     | 6.67     | 15.00           | 10.00                   | 12.50         |
+| 2022  | 9.09      | 6.25     | 13.04           | 9.09                    | 11.11         |
+| 2023  | 8.33      | 5.88     | 11.54           | 8.33                    | 10.00         |
+| 2024  | 7.69      | 5.56     | 10.34           | 7.69                    | 9.09          |
+
+**Common Size Statement Table ** 
+| Year  | Revenue (%) | COGS (%) | Gross Profit (%) | Operating Expenses (%) | Net Income (%) |
+|-------|------------|----------|------------------|------------------------|---------------|
+| 2020  | 100.00    | 60.00    | 40.00            | 20.00                   | 16.00         |
+| 2021  | 100.00    | 58.18    | 41.82            | 20.00                   | 16.36         |
+| 2022  | 100.00    | 56.67    | 43.33            | 20.00                   | 16.67         |
+| 2023  | 100.00    | 55.38    | 44.62            | 20.00                   | 16.92         |
+| 2024  | 100.00    | 54.29    | 45.71            | 20.00                   | 17.14         |
+
+## DuPont Analysis
+### Example 8:
+Let's apply DuPont Analysis to XYZ Corp:
+  - **NPM** = 15%
+  - **TAT** = 1.2
+  - **EM** = 1.5
+  - $ROE = 15\% \times 1.2 \times 1.5 = 27\\%$

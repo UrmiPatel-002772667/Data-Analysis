@@ -442,29 +442,23 @@ Capital budgeting is a strategic financial process that involves evaluating and 
 - Provides a structured framework for evaluating and comparing different investment proposals.  
 - Enables decision-makers to make choices based on quantitative and qualitative criteria.  
 
----
-
 ### **Calculation and Interpretation of Net Present Value (NPV):**  
 **Net Present Value (NPV)** is a key capital budgeting technique that evaluates the profitability of an investment by comparing the present value of cash inflows with the present value of cash outflows over time.  
 
-\[NPV = \sum \frac{Cash Flow_t}{(1+r)^t} - Initial Investment\]
+$NPV = \sum \frac{\text{Cash Flow_t}}{(1+r)^t} - \text{Initial Investment}$
 
 **Interpretation:**  
 - If **NPV is positive**, the investment is expected to generate more cash inflows than outflows, indicating potential profitability.  
 - If **NPV is negative**, the investment may not meet the required rate of return and might not be economically viable.  
 
----
-
 ### **Calculation and Interpretation of Internal Rate of Return (IRR):**  
 **Internal Rate of Return (IRR)** is another crucial capital budgeting metric that represents the discount rate at which the present value of cash inflows equals the present value of cash outflows.  
 
-\[ \sum \frac{Cash Flow_t}{(1+IRR)^t} = Initial Investment \]
+$\sum \frac{\text{Cash Flow_t}}{(1+IRR)^t} = \text{Initial Investment}$
 
 **Interpretation:**  
 - If **IRR is greater than** the required rate of return (hurdle rate), the investment is considered acceptable.  
 - If **IRR is less than** the required rate of return, the project may not meet expectations.  
-
----
 
 ### **Teaching Approach:**  
 **Introduction:**  
@@ -493,8 +487,6 @@ Capital budgeting is a strategic financial process that involves evaluating and 
 
 By combining theoretical explanations with practical examples and interactive exercises, students can gain a comprehensive understanding of capital budgeting techniques, NPV, and IRR. This approach helps bridge the gap between theory and real-world applications in financial decision-making.
 
----
-
 ### **Introduction to Cost of Capital and Capital Structure:**  
 Understanding the concepts of **cost of capital** and **capital structure** is crucial for financial decision-making within a business. These concepts play a pivotal role in determining how a company finances its operations and investments.
 
@@ -506,4 +498,120 @@ Understanding the concepts of **cost of capital** and **capital structure** is c
 - Refers to the mix of debt and equity financing used by a company.  
 - A well-balanced capital structure minimizes the cost of capital while maximizing shareholder value.  
 
-By analyzing these concepts, businesses can make informed decisions about their financing strategies and investment plans.
+#**Cost of Capital and Capital Structure**
+
+## **I. Cost of Capital**
+
+The cost of capital is the total cost a company incurs to acquire funds. It represents the return expected by investors for providing capital to the company.
+
+### **Components of Cost of Capital:**
+
+**1. Cost of Debt:**
+- Interest payments on loans and bonds.
+- Consideration of factors such as interest rates, creditworthiness, and market conditions.
+- **Formula:**
+  $\text{Cost of Debt} = \frac{\text{Interest Expense}}{\text{Debt Value}}$
+
+**2. Cost of Equity:**
+- Dividend payments to shareholders.
+- Stock price appreciation.
+- Incorporates the risk associated with investing in the company's equity.
+- **Formula:**
+  $\text{Cost of Equity} = \frac{\text{Dividends per Share} + \text{Growth Rate of Dividends}}{\text{Current Stock Price}}$
+
+**3. Cost of Preferred Stock:**
+- Dividend payments to preferred stockholders.
+- Similar to the cost of debt but with specific considerations for preferred stock terms.
+- **Formula:**
+  $\text{Cost of Preferred Stock} = \frac{\text{Preferred Dividends}}{\text{Preferred Stock Value}}$
+
+### **II. Capital Asset Pricing Model (CAPM)**
+The **Capital Asset Pricing Model (CAPM)** is a widely used financial model for calculating the expected return on an investment based on its risk and the cost of capital.
+
+- **Formula:**
+  $R_i = R_f + \beta_i \times (R_m - R_f)$
+  
+  Where:
+  - $\( R_i \)$ = Expected return on investment
+  - $\( R_f \)$ = Risk-free rate of return
+  - $\( \beta_i \)$ = Beta of investment (systematic risk)
+  - $\( R_m \)$ = Expected return on the market
+  - $\( (R_m - R_f) \)$ = Market risk premium
+
+- **Key Points:**
+  1. **Risk and Return Relationship** – CAPM quantifies the relationship between risk and expected return.
+  2. **Systematic Risk** – CAPM focuses on systematic risk, measured by beta.
+  3. **Risk-free Rate** – Represents the return from a risk-free investment, such as government bonds.
+  4. **Market Risk Premium** – Additional return investors expect for bearing systematic risk.
+  5. **Assumptions** – CAPM assumes efficient markets and homogeneous expectations.
+
+### **III. Weighted Average Cost of Capital (WACC)**
+- Reflects the average cost of all capital components.
+- Weighted based on the proportion of each component in the company's capital structure.
+- **Formula:**
+  $\text{WACC} = \left(\frac{W_d}{W_t} \times C_d\right) + \left(\frac{W_e}{W_t} \times C_e\right) + \left(\frac{W_p}{W_t} \times C_p\right)$
+  
+  Where:
+  - $\( W_d, W_e, W_p \)$ = Weights of debt, equity, and preferred stock in the capital structure
+  - $\( W_t \)$ = Total capital
+  - $\( C_d, C_e, C_p \)$ = Costs of debt, equity, and preferred stock
+
+### **IV. Capital Structure**
+
+#### **Definition:**
+Capital structure refers to the mix of a company's debt and equity financing. It determines how a company funds its operations and expansions.
+
+#### **Components of Capital Structure:**
+
+**1. Debt:**
+- Loans, bonds, or other forms of borrowed capital.
+- Interest payments are tax-deductible.
+
+**2. Equity:**
+- Common and preferred stock.
+- Represents ownership in the company.
+
+#### **Factors Influencing Capital Structure:**
+- **Business Risk:** Uncertain industries may prefer lower debt to minimize financial risk.
+- **Tax Considerations:** Interest on debt is tax-deductible, making it a cost-effective financing option.
+- **Financial Flexibility:** Adequate reserves for unexpected expenses or opportunities.
+
+### **V. Analysis of Capital Structure and Its Impact on Cost of Capital**
+
+#### **Importance of Optimal Capital Structure:**
+
+**1. Minimizing Cost of Capital:**
+- Balancing debt and equity to minimize the overall cost of capital.
+
+**2. Maximizing Shareholder Value:**
+- Enhancing the company's value and attractiveness to investors.
+
+#### **Trade-offs:**
+- **Risk and Return:** Balancing tax-deductible interest benefits with financial risks associated with high debt levels.
+- **Flexibility vs. Stability:** Finding equilibrium between financial flexibility and stability in uncertain economic conditions.
+
+### **VI. Live Calculation Example**
+
+Consider a company with the following parameters:
+- **Debt:** $5 million with an interest rate of 5%
+- **Equity:** $10 million with a cost of equity of 8%
+- **Preferred Stock:** $2 million with a preferred dividend rate of 6%
+- **Tax Rate:** 30%
+
+#### **Calculations:**
+
+1. **Cost of Debt (After-Tax):**
+   $C_d = \frac{5,000,000 \times 0.05}{5,000,000} \times (1 - 0.30) = 0.035 \text{ or } 3.5\\%$
+
+2. **Cost of Equity:**
+   $C_e = 0.08 \text{ or } 8\\%$
+
+3. **Cost of Preferred Stock:**
+   $C_p = \frac{2,000,000 \times 0.06}{2,000,000} = 0.06 \text{ or } 6\\%$
+
+4. **Weighted Average Cost of Capital (WACC):**
+   $WACC = \left( \frac{5,000,000}{17,000,000} \times 0.035 \right) + \left( \frac{10,000,000}{17,000,000} \times 0.08 \right) + \left( \frac{2,000,000}{17,000,000} \times 0.06 \right)$
+   $= (0.294 \times 0.035) + (0.588 \times 0.08) + (0.118 \times 0.06)$
+   $= 0.0103 + 0.0470 + 0.0071 = 0.0644 \text{ or } 6.44\\%$
+
+Thus, the **WACC for this company is 6.44%**, illustrating the weighted average of the cost of debt, cost of equity, and cost of preferred stock based on their respective proportions in the capital structure.

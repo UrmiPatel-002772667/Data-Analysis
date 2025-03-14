@@ -79,9 +79,9 @@ Efficiency and activity ratios evaluate how well a company utilizes its assets t
 
 ### Operating Cycle:
 - The operating cycle measures the time it takes for a company to convert its investment in inventory into cash. It includes two main components:
-- **Days Sales of Inventory (DSI)**:  
+- **Days Sales of Inventory (DSI)**: This represents the average number of days it takes for a company to sell its entire inventory. 
   - $\text{DSI} = \left( \frac{\text{Average Inventory}}{\text{Cost of Goods Sold}} \right) \times \text{Number of Days in the Period}$
-- **Days Sales Outstanding (DSO)**:  
+- **Days Sales Outstanding (DSO)**: DSO measures the average number of days it takes for a company to collect its accounts receivable. 
   - $\text{DSO} = \left( \frac{\text{Accounts Receivable}}{\text{Total Credit Sales}} \right) \times \text{Number of Days in the Period}$  
 
 The **Operating Cycle** is calculated as:  

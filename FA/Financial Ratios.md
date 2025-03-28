@@ -101,3 +101,27 @@ $\text{Operating Cycle} = \text{DSI} + \text{DSO}$
 **Management Implications**:
 - Efficient management of the operating cycle and cash conversion cycle can improve liquidity and reduce the need for external financing.
 - Companies can optimize working capital by negotiating favorable payment terms with suppliers, efficiently managing inventory levels, and improving accounts receivable collection processes.
+
+## Market and Valuation Ratios
+
+Market and valuation ratios are critical for investors and analysts to assess a company’s performance and its stock market valuation. Below is a breakdown of key ratios with examples and live calculations.
+
+1. **Price-to-Earnings (P/E) Ratio**
+- **P/E Ratio** indicates the valuation relative to earnings.
+- $\text{P/E Ratio} = \frac{\text{Market Price per Share}}{\text{Earnings per Share (EPS)}}$
+
+2. **Dividend Yield**
+- **Dividend Yield** measures income from dividends.
+- $\text{Dividend Yield} = \left( \frac{\text{Dividends per Share}}{\text{Market Price per Share}} \right) \times 100$
+
+3. **Earnings Per Share (EPS)**
+- **EPS** reflects the company's profitability per share.
+- $\text{EPS} = \frac{\text{Net Income}}{\text{Number of Outstanding Shares}}$
+
+4. **Price-to-Book (P/B) Ratio**
+- **P/B Ratio** compares market value with book value.
+- $\text{P/B Ratio} = \frac{\text{Market Price per Share}}{\text{Book Value per Share}}$
+
+5. **Return on Equity (ROE)**
+- **ROE** shows how well a company utilizes equity to generate profits.
+- $\text{ROE} = \frac{\text{Net Income}}{\text{Shareholders' Equity}} \times 100$

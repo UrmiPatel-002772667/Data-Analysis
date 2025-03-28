@@ -273,3 +273,30 @@ TAT = 600000/450000 = 1.33
 EM = 500000/350000 = 1.42
 
 ROI = 13.33 * 1.33 * 1.42 = 25.175
+
+## Risk Analysis
+### Example 10:
+
+Consider a company with the following parameters:
+- **Debt:** $5 million with an interest rate of 5%
+- **Equity:** $10 million with a cost of equity of 8%
+- **Preferred Stock:** $2 million with a preferred dividend rate of 6%
+- **Tax Rate:** 30%
+
+#### **Calculations:**
+
+1. **Cost of Debt (After-Tax):**
+   $C_d = \frac{5,000,000 \times 0.05}{5,000,000} \times (1 - 0.30) = 0.035 \text{ or } 3.5\\%$
+
+2. **Cost of Equity:**
+   $C_e = 0.08 \text{ or } 8\\%$
+
+3. **Cost of Preferred Stock:**
+   $C_p = \frac{2,000,000 \times 0.06}{2,000,000} = 0.06 \text{ or } 6\\%$
+
+4. **Weighted Average Cost of Capital (WACC):**
+   $WACC = \left( \frac{5,000,000}{17,000,000} \times 0.035 \right) + \left( \frac{10,000,000}{17,000,000} \times 0.08 \right) + \left( \frac{2,000,000}{17,000,000} \times 0.06 \right)$
+   $= (0.294 \times 0.035) + (0.588 \times 0.08) + (0.118 \times 0.06)$
+   $= 0.0103 + 0.0470 + 0.0071 = 0.0644 \text{ or } 6.44\\%$
+
+Thus, the **WACC for this company is 6.44%**, illustrating the weighted average of the cost of debt, cost of equity, and cost of preferred stock based on their respective proportions in the capital structure.
